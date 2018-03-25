@@ -1,0 +1,59 @@
+
+.picture{
+    margin-left: 28vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 45vw;
+    height: 35vh; 
+}
+.smoq{
+ background-image: url("./img/atom.jpg");
+ background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg-1 { 
+      background-color: #1abc9c;
+      color: #ffffff;
+      height: 34vh;
+  }
+  .bg-2 { 
+      background-color: #474e5d;
+      color: #ffffff;
+      height: 20vh;
+  }
+  .bg-3 { 
+      background-color: #d81212;
+      color: #555555;
+      height: 46vh;
+    
+  }
+  .bg-4 { 
+      background-color: #2f2f2f;
+      color: #fff;
+  }
+  .container-fluid {
+      padding-bottom: 70px;
+  }
+  
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+      
+  }
+
+  .cityPick{
+      width: 20vh;
+      height: 5vh;
+      background-color: #fff;
+      color: #2f2f2f
+  }
+
+  @media screen and (max-width: 768px) {
+    
+           
+    
+  }
+  @media screen and (max-width: 480px) {
+    
+  }
